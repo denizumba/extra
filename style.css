@@ -1,2 +1,9 @@
 @charset "UTF-8";
 
+
+/* Variáveis declaradas */
+:root {
+    --cor-prim: #C1272D;
+    --cor-sec: #0A1A2F;
+    --cor-tre: #F2B632;
+}
